@@ -1,5 +1,8 @@
 # singularity-hmmer
 
+![Logo](https://mfr.osf.io/export?url=https://osf.io/r7ady/?action=download&mode=render&direct&public_file=True&initialWidth=828&childId=mfrIframe&parentTitle=OSF%20%7C%20gromacsforwiki.png&parentUrl=https://osf.io/r7ady/&format=2400x2400.jpeg)
+
+
 Singularity recipe for [GROMACS](https://www.gromacs.org) based on the containers released by [NVIDIA](https://ngc.nvidia.com/catalog/containers/hpc:gromacs).
 
 ## Building the image using the recipe
